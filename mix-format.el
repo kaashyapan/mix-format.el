@@ -34,7 +34,7 @@
   :type 'string
   :group 'mix-format)
 
-(defcustom mixfmt-mix "/usr/bin/mix"
+(defcustom mixfmt-mix "/usr/local/bin/mix"
   "Path to the 'mix' executable."
   :type 'string
   :group 'mix-format)
